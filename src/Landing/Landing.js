@@ -26,7 +26,7 @@ class Landing extends Component {
             onClick={this.openHome}
             rel="noopener noreferrer"
           >
-            Learn Testing
+            Go Home
         </a>
         </header>
       </div>
